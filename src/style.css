@@ -1,1 +1,6 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+ html {
+    text-align: center;
+    margin: 20%;
+  }
+  
+
